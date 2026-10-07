@@ -83,7 +83,7 @@ The program selects food delivery orders according to their **order value per ki
 
 ### Output
 
-![Food Delivery Knapsack Output](OutPut/App1_Food_Delivery_Knapsack_Output.png)
+![Food Delivery Knapsack Output](Music/DAA_Lab/Experiment3_Knapsack_Greedy/OutPut/App1_Food_Delivery_Knapsack_Output.png)
 
 ---
 
@@ -106,7 +106,7 @@ The program selects mobile data plans according to their **data benefit per rupe
 
 ### Output
 
-![Mobile Data Plan Knapsack Output](OutPut/App2_Mobile_Data_Plan_Output.png)
+![Mobile Data Plan Knapsack Output](Music/DAA_Lab/Experiment3_Knapsack_Greedy/OutPut/App2_Mobile_Data_Plan_Output.png)
 
 ---
 
@@ -129,8 +129,7 @@ The program gives charging priority to vehicles according to their **battery ben
 
 ### Output
 
-![EV Charging Knapsack Output](OutPut/App3_EV_Charging_Output.png)
-
+![EV Charging Knapsack Output](Music/DAA_Lab/Experiment3_Knapsack_Greedy/OutPut/App3_EV_Charging_Output.png)
 ---
 
 # Time Complexity
